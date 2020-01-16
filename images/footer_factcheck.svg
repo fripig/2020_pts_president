@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115.897" height="137" viewBox="0 0 115.897 137">
+    <defs>
+        <style>
+            .cls-1{fill:rgba(255,255,255,.4);stroke:#46698a;stroke-width:2px;opacity:.74}.cls-1,.cls-13,.cls-4{stroke-linecap:round;stroke-linejoin:round}.cls-2{opacity:.65}.cls-3{fill:#46698a}.cls-4{fill:#fff;stroke:#00315e;opacity:.25}.cls-5{fill:#44201f}.cls-6{fill:#854200}.cls-7{fill:#c06800}.cls-8{fill:#2c5379}.cls-9{fill:#424242}.cls-10{fill:#ffab0e}.cls-11{fill:#ffda6a}.cls-12{fill:#5e3f3e}.cls-13{fill:none;stroke:#000;stroke-width:.25px}
+        </style>
+    </defs>
+    <g id="footer_factcheck" transform="translate(0 1)">
+        <path id="Path_3201" d="M1201.87 512.853l-81.013 8.662v84.149l81.013 42.189z" class="cls-1" data-name="Path 3201" transform="translate(-1086.974 -512.853)"/>
+        <g id="事實查核-文字條" transform="translate(91.549 67.842)">
+            <g id="Group_8542" class="cls-2" data-name="Group 8542">
+                <path id="Path_3182" d="M1190.047 595.817l14.966 3.652v-1.684l-14.966-3.53z" class="cls-3" data-name="Path 3182" transform="translate(-1190.047 -594.255)"/>
+                <path id="Path_3183" d="M1205.013 604.388l-14.966-3.933v1.557l14.966 4.055z" class="cls-3" data-name="Path 3183" transform="translate(-1190.047 -595.287)"/>
+                <path id="Path_3184" d="M1205.013 610.991l-14.966-4.336v1.551l14.966 4.457z" class="cls-3" data-name="Path 3184" transform="translate(-1190.047 -596.32)"/>
+                <path id="Path_3185" d="M1205.013 617.595l-14.966-4.74v1.545l14.966 4.86z" class="cls-3" data-name="Path 3185" transform="translate(-1190.047 -597.353)"/>
+                <path id="Path_3186" d="M1205.013 624.2l-14.966-5.143v1.54l14.966 5.263z" class="cls-3" data-name="Path 3186" transform="translate(-1190.047 -598.386)"/>
+            </g>
+        </g>
+        <g id="事實查核-小框" transform="translate(74.884 36.62)">
+            <path id="Path_3187" d="M1190.228 579.026l-20.176-3.744v-18.49l20.176 1.613z" class="cls-4" data-name="Path 3187" transform="translate(-1170.052 -556.792)"/>
+        </g>
+        <g id="事實查核-中框" transform="translate(57.552 17.185)">
+            <path id="Path_3188" d="M1174.934 563.288l-25.678-3.413v-25.64l25.678-.762z" class="cls-4" data-name="Path 3188" transform="translate(-1149.256 -533.473)"/>
+        </g>
+        <g id="事實查核-大框" transform="translate(42.916 53.628)">
+            <path id="Path_3189" d="M1173.75 625.992l-42.055-18.125V577.2l42.055 9.112z" class="cls-4" data-name="Path 3189" transform="translate(-1131.695 -577.2)"/>
+        </g>
+        <g id="事實查核-人" transform="translate(0 43.913)">
+            <g id="Group_8543" data-name="Group 8543">
+                <path id="Path_3190" d="M1100.048 660.053h10.466a4.668 4.668 0 0 0-4.668-4.668h-5.8z" class="cls-5" data-name="Path 3190" transform="translate(-1088.497 -571.913)"/>
+                <circle id="Ellipse_562" cx="4.557" cy="4.557" r="4.557" class="cls-6" data-name="Ellipse 562" transform="rotate(-67.314 23.638 12.04)"/>
+                <circle id="Ellipse_563" cx="4.557" cy="4.557" r="4.557" class="cls-7" data-name="Ellipse 563" transform="rotate(-67.314 21.932 14.603)"/>
+                <path id="Rectangle_1511" d="M0 0h3.468v7.707H0z" class="cls-6" data-name="Rectangle 1511" transform="translate(18.82 18.92)"/>
+                <path id="Path_3191" d="M1099.575 650.757h7.923l3.375-33.186h-11.3z" class="cls-8" data-name="Path 3191" transform="translate(-1088.44 -567.357)"/>
+                <path id="Path_3192" d="M1104.641 650.757h7.923l3.375-33.186h-11.3z" class="cls-3" data-name="Path 3192" transform="translate(-1089.05 -567.357)"/>
+                <ellipse id="Ellipse_564" cx="8.065" cy="8.065" class="cls-3" data-name="Ellipse 564" rx="8.065" ry="8.065" transform="rotate(-76.76 39.477 21.884)"/>
+                <ellipse id="Ellipse_565" cx="4.205" cy="4.205" class="cls-9" data-name="Ellipse 565" rx="4.205" ry="4.205" transform="translate(20.757 28.675)"/>
+                <path id="Rectangle_1512" d="M0 0h5.67v5.67H0z" class="cls-10" data-name="Rectangle 1512" transform="translate(15.251 20.186)"/>
+                <path id="Path_3193" d="M1116.2 575.969a1.008 1.008 0 1 1-1.007-1.008 1.008 1.008 0 0 1 1.007 1.008z" class="cls-10" data-name="Path 3193" transform="translate(-1090.201 -562.222)"/>
+                <path id="Path_3194" d="M1113.164 573.289l-6.312-6.313 6.312-6.312a8.928 8.928 0 0 1 0 12.625z" class="cls-6" data-name="Path 3194" transform="translate(-1089.317 -560.5)"/>
+                <path id="Path_3195" d="M1106.756 582.138a6.765 6.765 0 0 1-6.765-6.765v-8.131a6.765 6.765 0 0 1 6.765-6.765 6.765 6.765 0 0 1 6.766 6.765v8.131a6.766 6.766 0 0 1-6.766 6.765z" class="cls-11" data-name="Path 3195" transform="translate(-1088.49 -560.477)"/>
+                <path id="Path_3196" d="M1115.273 613.661h-16.128s-.006 0-.006-.007v-18.676a8.068 8.068 0 0 1 8.068-8.068 8.068 8.068 0 0 1 8.068 8.068v18.681z" class="cls-9" data-name="Path 3196" transform="translate(-1088.387 -563.662)"/>
+                <path id="Path_3197" d="M1093.7 591.923v-25.278a5.08 5.08 0 0 1 5.08-5.081 5.082 5.082 0 0 1 5.081 5.081v15.117a10.162 10.162 0 0 1-10.162 10.162z" class="cls-7" data-name="Path 3197" transform="translate(-1087.732 -560.608)"/>
+                <path id="Path_3198" d="M1102.7 560.477h9.6a2.33 2.33 0 0 1 2.33 2.33 2.33 2.33 0 0 1-2.33 2.33h-9.6a2.331 2.331 0 0 1-2.331-2.33 2.33 2.33 0 0 1 2.331-2.33z" class="cls-7" data-name="Path 3198" transform="translate(-1088.535 -560.477)"/>
+                <path id="Path_3199" d="M1104.446 573.854v-10.676h10.676a10.677 10.677 0 0 1-10.676 10.676z" class="cls-7" data-name="Path 3199" transform="translate(-1089.027 -560.802)"/>
+                <path id="Path_3200" d="M1105.587 660.053h10.466a4.668 4.668 0 0 0-4.668-4.668h-5.8z" class="cls-12" data-name="Path 3200" transform="translate(-1089.165 -571.913)"/>
+            </g>
+        </g>
+        <g id="事實查核-眼睛" transform="translate(22.45 54.624)">
+            <path id="Path_3202" d="M1114.192 573.533a.876.876 0 1 1-.876-.877.876.876 0 0 1 .876.877z" class="cls-5" data-name="Path 3202" transform="translate(-1112.44 -572.656)"/>
+        </g>
+        <g id="事實查核-手" transform="translate(17.705 67.902)">
+            <g id="Group_8544" data-name="Group 8544">
+                <path id="Path_3203" d="M1120.376 593.03h-10.692a2.639 2.639 0 0 1 0-5.277h10.692a2.639 2.639 0 1 1 0 5.277z" class="cls-11" data-name="Path 3203" transform="translate(-1107.045 -587.753)"/>
+            </g>
+        </g>
+        <g id="事實查核-手2" transform="translate(28.349 54.084)">
+            <g id="Group_8545" data-name="Group 8545" transform="translate(0 7.377)">
+                <path id="Path_3204" d="M1121.785 592.148a2.639 2.639 0 0 1-1.865-4.5l6.441-6.441a2.638 2.638 0 0 1 3.731 3.732l-6.441 6.44a2.63 2.63 0 0 1-1.866.769z" class="cls-11" data-name="Path 3204" transform="translate(-1119.147 -580.43)"/>
+            </g>
+            <g id="Group_8546" data-name="Group 8546" transform="translate(7.557)">
+                <path id="Path_3205" d="M1137 577.748a.9.9 0 0 1-.908-1.156.9.9 0 0 1-.908-1.156.9.9 0 0 0-.527-.257l1.594-1.594a.9.9 0 0 0-1.28-1.28l-3.611 3.61.3-.649a1.485 1.485 0 0 0-.166-1.738 1.4 1.4 0 0 0-.263-.2.539.539 0 0 0-.441-.062.521.521 0 0 0-.323.286v.007a19.467 19.467 0 0 1-1.834 3.437 3.486 3.486 0 0 0 .22 4.9 3.629 3.629 0 0 0 2.765 1.172 3.986 3.986 0 0 0 2.58-1.235l1.4-1.4.849-.85.551-.551a.9.9 0 0 0 .002-1.284z" class="cls-11" data-name="Path 3205" transform="translate(-1127.74 -572.042)"/>
+                <path id="Line_66" d="M1.456 0L0 1.456" class="cls-13" data-name="Line 66" transform="translate(7.059 5.513)"/>
+                <path id="Line_67" d="M1.65 0L0 1.65" class="cls-13" data-name="Line 67" transform="translate(6.035 4.295)"/>
+                <path id="Line_68" d="M1.847 0L0 1.847" class="cls-13" data-name="Line 68" transform="translate(5.043 3.106)"/>
+            </g>
+        </g>
+    </g>
+</svg>

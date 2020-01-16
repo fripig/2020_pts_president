@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="fb_header_share" data-name="fb header share" transform="translate(-1172 -35)">
+    <g id="Rectangle_824" data-name="Rectangle 824" transform="translate(1172 35)" fill="none" stroke="#424242" stroke-width="1">
+      <rect width="30" height="30" rx="15" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" rx="14.5" fill="none"/>
+    </g>
+    <path id="fb_header_share-2" data-name="fb header share" d="M6.343,19.619V10.66H9.221l.458-3.466H6.343V4.97c0-1.046.262-1.7,1.7-1.7H9.809V.131L7.194,0C4.643,0,2.877,1.635,2.877,4.578V7.194H0V10.66H2.877v8.959Z" transform="translate(1182 40)" fill="#424242"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg id="reaction-story-love" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.03" height="36.029" viewBox="0 0 36.03 36.029">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.014" x2="0.5" y2="1.034" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6683"/>
+      <stop offset="0.05" stop-color="#ff6683"/>
+      <stop offset="0.934" stop-color="#ec1733"/>
+      <stop offset="1" stop-color="#ec1733"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_2880" data-name="Path 2880" d="M324.043,170.354a18.015,18.015,0,1,0,18.015-18.015,18.015,18.015,0,0,0-18.015,18.015" transform="translate(-324.043 -152.339)" fill="url(#linear-gradient)"/>
+  <path id="Path_2881" data-name="Path 2881" d="M354.252,171.483c-4.619,0-5.2,3.693-5.2,3.693s-.578-3.693-5.2-3.693c-4.442,0-5.738,4.5-5.2,6.9,1.43,6.358,10.393,10.811,10.393,10.811s8.963-4.454,10.393-10.811c.541-2.405-.755-6.9-5.2-6.9" transform="translate(-331.04 -161.575)" fill="#fff" fill-rule="evenodd"/>
+</svg>

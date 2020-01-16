@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:#424242;fill-rule:evenodd}
+        </style>
+    </defs>
+    <g id="black-arrow" transform="rotate(-90 -534.5 750.5)">
+        <g id="left_arrow" transform="translate(180 1285)">
+            <circle id="Ellipse_401" cx="18" cy="18" r="18" class="cls-1" data-name="Ellipse 401" transform="rotate(180 18 18)"/>
+        </g>
+        <path id="path" d="M8.6 8.579L11.179 6l11.055 11.054-11.055 11.055-2.579-2.58 8.475-8.475z" class="cls-2" transform="rotate(180 106.8 660)"/>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg id="history-story-button" xmlns="http://www.w3.org/2000/svg" width="22.53" height="22.53" viewBox="0 0 22.53 22.53">
+  <g id="Group_8267" data-name="Group 8267" transform="translate(0 0)">
+    <path id="Path_2870" data-name="Path 2870" d="M50.1,3.4H48.09V6.537a2.28,2.28,0,0,1-4.56,0V3.4H36.64V6.537a2.28,2.28,0,0,1-4.56,0V3.4H30.218a1.32,1.32,0,0,0-1.324,1.317V21.909a1.32,1.32,0,0,0,1.324,1.317H50.1a1.32,1.32,0,0,0,1.324-1.317V4.716A1.32,1.32,0,0,0,50.1,3.4Zm0,18.51H30.218V11.729H50.1Z" transform="translate(-28.894 -0.697)" fill="#fff"/>
+    <path id="Path_2871" data-name="Path 2871" d="M33.814,7.947a1.126,1.126,0,0,0,1.126-1.126V2.126a1.126,1.126,0,1,0-2.253,0V6.821A1.127,1.127,0,0,0,33.814,7.947Z" transform="translate(-28.357 -1)" fill="#fff"/>
+    <path id="Path_2872" data-name="Path 2872" d="M43.858,7.947a1.126,1.126,0,0,0,1.126-1.126V2.126a1.126,1.126,0,1,0-2.253,0V6.821A1.127,1.127,0,0,0,43.858,7.947Z" transform="translate(-26.935 -1)" fill="#fff"/>
+  </g>
+  <g id="Group_8271" data-name="Group 8271" transform="translate(1.309 11.106)">
+    <g id="Group_8268" data-name="Group 8268" transform="translate(0 4.557)">
+      <rect id="Rectangle_1398" data-name="Rectangle 1398" width="19.913" height="1.002" fill="#fff"/>
+    </g>
+    <g id="Group_8269" data-name="Group 8269" transform="translate(12.715)">
+      <rect id="Rectangle_1399" data-name="Rectangle 1399" width="1.126" height="10.116" fill="#fff"/>
+    </g>
+    <g id="Group_8270" data-name="Group 8270" transform="translate(6.071)">
+      <rect id="Rectangle_1400" data-name="Rectangle 1400" width="1.126" height="10.116" fill="#fff"/>
+    </g>
+  </g>
+</svg>

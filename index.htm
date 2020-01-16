@@ -1,0 +1,812 @@
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <title>總統大選</title>
+
+    <link rel="icon" href="/favicon.png" sizes="any" type="image/png">
+    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>總統大選</title>
+    <meta property="og:type" content="website"/>
+    <meta itemprop="title" content="總統大選"/>
+    <meta property="og:title" content="總統大選"/>
+    <meta property="og:site_name" content="總統大選"/>
+    <meta itemprop="image" content="https://2020election.pts.org.tw/images/meta-img.jpg"/>
+    <meta property="og:image" content="https://2020election.pts.org.tw/images/meta-img.jpg"/>
+    <meta itemprop="description" content="穿越同溫層勇敢對話，解密選票變鈔票；透明是民主的內涵，完整是信任的基石；撥開似是而非真相再現，直擊關鍵大選。"/>
+    <meta property="og:description" content="穿越同溫層勇敢對話，解密選票變鈔票；透明是民主的內涵，完整是信任的基石；撥開似是而非真相再現，直擊關鍵大選。"/>
+    <meta property="og:url" content="https://2020election.pts.org.tw"/>
+    <link rel="canonical" href="https://2020election.pts.org.tw"/>
+
+    <meta property="keywords" content=""/>
+    <meta property="fb:app_id" content="612597282847784" />
+    <style>
+
+    </style>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88451663-19"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'UA-88451663-19');
+    </script>
+</head>
+<body class="main-body">
+<svg class="d-none">
+    <symbol id="prev-arrow" viewBox="0 0">
+        <g id="" transform="translate(36.222 36.222) rotate(180)">
+            <g id="">
+                <g id="" data-name="Ellipse 401" transform="translate(0.222 0.222)" fill="none" stroke="#707070"
+                   stroke-width="1">
+                    <circle cx="18" cy="18" r="18" stroke="none"/>
+                    <circle cx="18" cy="18" r="17.5" fill="var(--bg-color)"/>
+                </g>
+            </g>
+            <path id="" d="M8.6,8.59,11.19,6l11.1,11.1L11.19,28.2,8.6,25.61l8.51-8.51Z"
+                  transform="translate(2.445 1.029)" fill="var(--arrow-color)" fill-rule="evenodd"/>
+        </g>
+    </symbol>
+    <symbol id="next-arrow" viewBox="0 0">
+        <g id="" transform="translate(-0.222 -0.222)">
+            <g id="">
+                <g id="" data-name="Ellipse 401" transform="translate(0.222 0.222)" fill="none" stroke="#707070"
+                   stroke-width="1">
+                    <circle cx="18" cy="18" r="18" stroke="none"/>
+                    <circle cx="18" cy="18" r="17.5" fill="var(--bg-color)"/>
+                </g>
+            </g>
+            <path id="" d="M8.6,8.59,11.19,6l11.1,11.1L11.19,28.2,8.6,25.61l8.51-8.51Z"
+                  transform="translate(2.445 1.029)" fill="var(--arrow-color)" fill-rule="evenodd"/>
+        </g>
+    </symbol>
+</svg>
+<header class="main-header">
+    <div class="container d-flex align-items-center justify-content-between">
+        <a href="https://newslab.pts.org.tw/"><img src="/images/psharp-header-link.svg" alt=""></a>
+        <div class="d-flex">
+            <nav class="desk-menu d-none d-md-block">
+                <ul class="list-unstyled d-flex m-0">
+                    <li><a class="" href="/open"><div>實況開票</div>
+
+                    </a></li>
+                    <li><a href="https://newmedia.pts.org.tw/2020factcheck/"><div>事實查核</div></a></li>
+                    <li><a class="" href="https://newmedia.pts.org.tw/subsidy/"><div>解密補助款</div></a></li>
+                    <li><a class="" href="https://newmedia.pts.org.tw/fans-talk-interactive/"><div>多粉對談</div></a></li>
+                </ul>
+            </nav>
+            <a class="ml-2" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2F2020election.pts.org.tw%2F"><img src="/images/fb-share.svg" alt=""></a>
+            <a class="ml-2" href="https://social-plugins.line.me/lineit/share?url=https%3A%2F%2F2020election.pts.org.tw%2F"><img src="/images/line-share.svg" alt=""></a>
+            <a class="ml-2" href="https://www.instagram.com/pts.news/" target="_blank"><img src="/images/ig-share.svg" alt=""></a>
+            <a id="mobileMenuOpen" class="ml-2 d-block d-md-none cursor-pointer"><img src="/images/nav.svg" alt=""></a>
+        </div>
+    </div>
+    <div id="mobileMenu">
+        <div class="mobile-menu position-fixed d-flex justify-content-center align-items-center">
+            <div id="mobileMenuClose" class="mobile-menu-close position-fixed">
+                <img src="/images/cancel.svg" alt="">
+            </div>
+            <ul class="list-unstyled m-0 text-white text-center">
+                <li><a class="" href="/open">實況開票</a></li>
+                <li><a class="" href="https://newmedia.pts.org.tw/2020factcheck/">事實查核</a></li>
+                <li><a class="" href="https://newmedia.pts.org.tw/subsidy/">解密補助款</a></li>
+                <li><a class="" href="https://newmedia.pts.org.tw/fans-talk-interactive/">多粉對談</a></li>
+            </ul>
+        </div>
+    </div>
+</header>
+<div class="" id="storyBoard" v-show="is_show" v-cloak style="display: none">
+    <div class="story-board d-flex">
+        <div class="limit-story-list">
+            <h2>所有限時動態</h2>
+            <ul class="list-unstyled">
+                <li class="d-flex align-items-center active"
+                    v-for="person in people"
+                    v-bind:key="person.id" @click="selectPerson(person)">
+                    <figure class="circle-bg">
+                        <div>
+                            <img class="cover-fit" :src="person.avatar" alt="">
+                        </div>
+                    </figure>
+                    <div>
+                        <h3 class="m-0">{{ person.name }}</h3>
+                        <div>{{person.news[0].public_date|ago}}</div>
+                    </div>
+                </li>
+
+            </ul>
+        </div>
+        <div class="story-content position-relative" v-show="selected_person">
+            <div class="story-bg" style="background-image: url('/images/slider1.jpg')"></div>
+            <a class="story-close position-absolute" id="storyClose" @click="close"><img
+                src="/images/home-story.svg" alt=""></a>
+            <a @click="prevStory" class="story-change position-absolute story-prev cursor-pointer"><img
+                src="/images/left_arrow_white.svg" alt=""></a>
+            <a @click="nextStory" class="story-change position-absolute story-next cursor-pointer"><img
+                src="/images/right_arrow_white.svg" alt=""></a>
+
+            <div class="story-card position-absolute overflow-hidden" v-if="news">
+                <div class="card-change card-prev" @click="prevStory"></div>
+                <div class="card-change card-next" @click="nextStory"></div>
+                <img loading="auto" @click="nextStory" class="cover-fit" :src="news.cover_vertical" alt="">
+                <header class="position-absolute">
+                    <ul class="list-unstyled story-track d-flex">
+                        <li :class="{'active':index==selected_news_index}"
+                            v-for="(row,index) in selected_person.news"></li>
+                    </ul>
+                    <div class="d-flex align-items-center">
+                        <figure class="circle-bg">
+                            <div>
+                                <img class="cover-fit" :src="selected_person.avatar" alt="">
+                            </div>
+                        </figure>
+                        <div class="text-white">
+                            <h4>
+                                {{ selected_person.name }}
+                            </h4>
+                            <div>
+                                {{ news.public_date | ago }}
+                            </div>
+                        </div>
+                    </div>
+                </header>
+                <div class="card-intro position-absolute">
+                    <div class="d-flex justify-content-between align-items-end media-content">
+                        <h3 class="text-white m-0" v-text="news.title"></h3>
+                        <div class="media-name" v-text="news.source">
+
+                        </div>
+                    </div>
+                    <p>{{ news.content }}</p>
+                    <footer class="d-flex justify-content-between">
+
+
+
+
+                        <div class="story-btns d-flex">
+                            <div class="story-btn d-flex align-items-center cursor-pointer position-relative"
+                                 id="doShare" @click="share">
+                                <img src="/images/share-story-button.svg" alt="">分享
+                                <div class="share-act position-absolute d-flex">
+                                    <a class="cursor-pointer" :href="shareFB(news)" target="_blank">
+                                        <img src="/images/fb-share.svg" alt="">
+                                    </a>
+                                    <a class="cursor-pointer" :href="shareLine(news)" target="_blank"><img
+                                        src="/images/line-share.svg" alt=""></a>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </footer>
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="bg-circle first-circle"></div>
+<div class="bg-circle second-circle"></div>
+<div class="bg-circle third-circle"></div>
+
+<div class="full-page position-relative overflow-hidden">
+    <div class="home-title-wrap">
+        <h1 class="home-title">
+            <img src="/images/kv_type.svg" alt="透視大選">
+        </h1>
+        <p>穿越藍綠同溫層，勇敢對話贏得理解。<br>
+            撥開似是而非，真相不怕以事實查核。<br>
+            選票變鈔票，200億補助款大解密，<br>
+            關鍵大選完整公開，民主學習說真話。
+        </p>
+    </div>
+    <div id="homeAni"></div>
+    <div class="donw-arrow position-absolute"><img src="/images/icon-down.svg" alt=""></div>
+</div>
+<div class="content-block">
+    <div class="container" id="slider" v-cloak v-show="items" v-cloak>
+        <h2 class="text-center">選舉日程</h2>
+        <div class="progress-list position-relative overflow-hidden">
+            <ul class="list-unstyled position-relative event-images">
+                <li v-for="(item, index) in items" class="position-absolute">
+                    <div class="embed-responsive embed-responsive-21by9">
+                        <div class="embed-responsive-item">
+                            <img class="cover-fit" v-bind:src="item.cover" alt="">
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <ul class="list-unstyled d-flex position-absolute event-content">
+                <li v-for="(item, index) in items">
+                    <div>
+                        <div>{{ item.title }}</div>
+                        <div>{{ item.content }}</div>
+                    </div>
+                </li>
+            </ul>
+            <a class="btn-arrow btn-prev" v-on:click="slidePrev">
+                <svg height="36px" width="36px">
+                    <use xlink:href="#prev-arrow" class=""/>
+                </svg>
+            </a>
+            <a class="btn-arrow btn-next" v-on:click="slideNext">
+                <svg height="36px" width="36px">
+                    <use xlink:href="#next-arrow" class=""/>
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>
+<div class="content-block">
+    <div class="container" id="people-list" v-cloak>
+        <div class="position-relative title-wrap">
+            <h2 class="text-center">限時動態</h2>
+            <a class="btn-more position-absolute" @click.stop="showStoryBoard()">顯示全部</a>
+        </div>
+        <ul class="list-unstyled d-flex story-list">
+            <li class="position-relative" v-for="row in list" :key="row.id" @click="showStoryBoard(row)">
+                <img class="cover-fit" :src="row.cover_vertical" alt="">
+                <div class="avatar-border circle-bg">
+                    <div class="avatar">
+                        <img class="cover-fit" :src="row.people.avatar" alt="">
+                    </div>
+                </div>
+                <div class="story-title">
+                    <div>{{ row.title }}</div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>
+<div class="content-block">
+    <div class="container" id="chart">
+        <h2 class="text-center">民調，誰高誰更高？</h2>
+        <div class="event-chart">
+            <div class="row">
+                <div class="col-md-8">
+                    <div id="" class="polls_chart_wrap position-relative">
+                        <div class="position-absolute poll-scale">
+                            <div>60%</div>
+                            <div>50%</div>
+                            <div>40%</div>
+                            <div>30%</div>
+                            <div>20%</div>
+                            <div>10%</div>
+                            <div>0%</div>
+                        </div>
+                        <div class="position-absolute text-center poll-can" id="pollCan">
+                            <div id="">韓國瑜: <span id="poll-can1"></span></div>
+                            <div id="">蔡英文: <span id="poll-can2"></span></div>
+                            <div id="">宋楚瑜: <span id="poll-can3"></span></div>
+                        </div>
+                        <div class="position-absolute poll-unit text-center" id="pollUnit">
+                            <div class="text-muted" id="poll-date">2019-11-21</div>
+                            <b class="d-block" id="poll-source">TVBS</b>
+                        </div>
+                        <div class="polls_chart">
+                            <div id="pollChart"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 news-events" id="pollNews">
+                    <ul class="list-unstyled">
+                        <li :class="activeClass(item)"
+                            v-for="item in news"
+                            @click="setActive(item)">
+                            <h3 class="text-center text-white m-0" v-text="item.data_date"></h3>
+                            <a class="click-title" v-text="item.title"></a>
+                            <a class="link-title" :href="item.url">
+                                <figure class="m-0 position-relative">
+                                    <img class="cover-fit" :src="item.image" alt="">
+                                    <div class="news-title position-absolute" v-text="item.title"></div>
+                                </figure>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="research-way">
+                    <h5 class="font-weight-bold">研究方法：</h5>
+                    <p>透明是民主開放的內涵，
+                        完整是信任打底的基石。本圖表選擇ETtoday新聞雲、TVBS民調中心、台灣民意基金會、自由時報、旺旺中時、品觀點、美麗島電子報、綠黨三立新聞網、聯合報系、蘋果日報等調查報告，盡可能接近完整蒐集已公開數據，選舉人可觀判選前的民眾意向是否能等同於選後的投票結果。並11/15後納入第三位候選人宋楚瑜比較。</p>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+<svg style="height: 0; overflow: hidden">
+    <defs>
+        <pattern id="can1" x="0" y="0" width="36" height="36" patternUnits="objectBoundingBox">
+            <image xlink:href="/images/can1.jpg" x="0"
+                   y="0" width="36" height="36"></image>
+        </pattern>
+        <pattern id="can2" x="0" y="0" width="36" height="36" patternUnits="objectBoundingBox">
+            <image xlink:href="/images/can2.jpg" x="0"
+                   y="0" width="36" height="36"></image>
+        </pattern>
+        <pattern id="can3" x="0" y="0" width="36" height="36" patternUnits="objectBoundingBox">
+            <image xlink:href="/images/can3.jpg" x="0"
+                   y="0" width="36" height="36"></image>
+        </pattern>
+    </defs>
+    <div class="bottom-card-wrap d-flex">
+        <div class="bottom-cards">
+            <div class="d-flex">
+                <div class="cards-content">
+                    <h3>實況開票</h3>
+                    <p>很負責任即時開票，揭露媒體開票時創造的平行時空。</p>
+                    <a href="/open" class="btn-more">閱讀更多</a>
+                </div>
+                <img src="/images/footer_vote.svg" alt="">
+            </div>
+        </div>
+        <div class="bottom-cards">
+            <div class="d-flex">
+                <div class="cards-content">
+                    <h3>事實查核</h3>
+                    <p>媒體攜手查核總統候選人競選期間的發言，究竟有幾分真？幾分假？</p>
+                    <a href="https://newmedia.pts.org.tw/2020factcheck/" class="btn-more">閱讀更多</a>
+                </div>
+                <img src="/images/footer_factcheck.svg" alt="">
+            </div>
+        </div>
+        <div class="bottom-cards">
+            <div class="d-flex">
+                <div class="cards-content">
+                    <h3>解密補助款</h3>
+                    <p>你投一票，他就有30元入袋。至今，選舉補助金已發放逾200億⋯</p>
+                    <a href="https://newmedia.pts.org.tw/subsidy/" class="btn-more">閱讀更多</a>
+                </div>
+                <img src="/images/footer_money.svg" alt="">
+            </div>
+        </div>
+        <div class="bottom-cards">
+            <div class="d-flex">
+                <div class="cards-content">
+                    <h3>多粉對談</h3>
+                    <p>異溫層的人，有沒有可能好好坐下來，面對面展開一場理性的對話？</p>
+                    <a href="https://newmedia.pts.org.tw/fans-talk-interactive/" class="btn-more">閱讀更多</a>
+                </div>
+                <img src="/images/footer_fans.svg" alt="">
+            </div>
+        </div>
+    </div>
+    <footer class="text-center main-footer">
+        <div style="margin-bottom:50px">製作：卓冠齊、曾芯敏、洪進吉、江舜智、顏永富</div>
+        <a href="https://newslab.pts.org.tw/"><img src="/images/pts_footer_home.svg" alt="公視新聞"></a>
+        <div style="margin-top:10px">Public Television Service Foundation.All Rights Reserved.</div>
+    </footer>
+    <script
+        src="https://code.jquery.com/jquery-3.4.1.min.js"
+        integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+        $(window).scroll(function () {
+            let scrollTop = $(this).scrollTop();
+            let header = $(".main-header");
+            if (scrollTop <= 20) {
+                header.css("top", 20 - scrollTop).removeClass("active");
+            } else {
+                header.css("top", 0).addClass("active");
+            }
+        })
+        $("#mobileMenuOpen").click(function () {
+            $("#mobileMenu").show()
+        })
+        $("#mobileMenuClose").click(function () {
+            $("#mobileMenu").hide()
+        })
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.5.9/lottie.min.js"
+            type="text/javascript"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="/js/jquery.dragscroll.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"
+            integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/locale/zh-tw.js"
+            integrity="sha256-go7Ghdg6dyr6iLFnj4zB0pRvjmKbqZBwEJolBVMkgMI=" crossorigin="anonymous"></script>
+    <script src="https://d.line-scdn.net/r/web/social-plugin/js/thirdparty/loader.min.js" async="async" defer="defer"></script>
+
+    <script>
+        let kmtColor = "#2CAFF5", dppColor = "#00FFA7", cmtColor = "#FFAF6A";
+
+        var animationContainer = document.getElementById("homeAni");
+        lottie.loadAnimation({
+            container: animationContainer, // the dom element that will contain the animation
+            renderer: 'svg',
+            loop: true,
+            autoplay: true,
+            path: '/data.json' // the path to the animation json
+        });
+        var storyBoard = new Vue({
+            el: '#storyBoard',
+            data: {
+                people: [],
+                is_show: false,
+                selected_person: null,
+                selected_news_index: 0,
+            },
+            filters: {
+                ago(value) {
+                    return moment(value).fromNow();
+                },
+                one_line(value) {
+                    return value.substr(0, 20) + '...';
+                }
+            },
+            computed: {
+                news() {
+                    return this.selected_person && this.selected_person.news[this.selected_news_index];
+                }
+            },
+            methods: {
+                shareFB(news) {
+                    let url = encodeURIComponent(news.url);
+                    return 'https://www.facebook.com/sharer/sharer.php?u=' + url;
+                },
+                shareLine(news) {
+                    let url = encodeURIComponent(news.url);
+                    return 'https://social-plugins.line.me/lineit/share?url=' + url;
+                },
+                share() {
+                    $(".share-act").toggleClass('active');
+                },
+                selectPerson(person) {
+                    this.selected_news_index = 0;
+                    this.selected_person = person;
+                },
+                selectPersonById(id) {
+                    this.selected_person = this.people.find(d => d.id == id);
+                },
+                openNews(news = null) {
+                    if(news){
+                        this.selected_person = this.people.find(d => d.id == news.people.id);
+                        this.selected_news_index = this.selected_person.news.findIndex(d => d.id == news.id)
+                    }
+
+                },
+                getData() {
+                    $.ajax({
+                        url: "/storage/data/people.json",
+                        dataType: 'json'
+                    }).done((data) => {
+                        this.people = data;
+                        this.selected_person = this.people[0];
+                        this.selected_news_id = 0;
+                    })
+                },
+                show() {
+                    this.is_show = true;
+                },
+                hide() {
+                    // history.pushState({}, '2020 總統大選', '');
+                    this.is_show = false;
+                },
+                close() {
+                    storyBoard.hide();
+                    $("body").removeClass("overflow-hidden")
+                },
+                prevStory() {
+                    if (this.selected_news_index == 0) return;
+                    this.selected_news_index--
+
+                },
+                nextStory() {
+                    if (this.selected_news_index == (this.selected_person.news.length - 1)) return;
+                    this.selected_news_index++
+
+                }
+            },
+            mounted: function () {
+                this.getData()
+            }
+        });
+        const people_list = new Vue({
+            el: '#people-list',
+            data: {
+                list: [],
+            },
+            methods: {
+                showStoryBoard(news = null) {
+                    if(news){
+                        storyBoard.openNews(news);
+                    }
+                    $("body").addClass("overflow-hidden")
+                    storyBoard.show();
+                },
+                getData() {
+                    $.ajax({
+                        url: "/storage/data/news.json",
+                        dataType: 'json'
+                    }).done((data) => {
+                        this.list = data.data;
+                        this.$nextTick(() => {
+                            $(".story-list").dragscroll();
+                        })
+                    })
+                }
+            },
+            mounted: function () {
+                this.getData()
+            }
+        });
+
+        let slider = new Vue({
+            el: "#slider",
+            data: {
+                now: 0,
+                items: [],
+                slideWidth: 0
+            },
+            computed: {
+                itemCount() {
+                    return this.items.length;
+                }
+            },
+            methods: {
+                getData() {
+
+                    $.ajax({
+                        url: "/storage/data/progress.json",
+                        dataType: 'json'
+                    }).done(data => {
+                        this.items = data;
+
+                        this.$nextTick(() => {
+                            let target = data.findIndex(d => d.on_time);
+                            this.goSlide();
+                            this.slideWidth = $(".progress-list").width();
+                            $(".event-content").width(this.slideWidth * this.itemCount);
+                            if (target) {
+                                while (this.now < target) {
+                                    this.now++;
+                                    this.goSlide();
+                                }
+                            }
+
+                        })
+
+                    })
+                },
+                slidePrev: function () {
+                    this.now--;
+                    if (this.now < 0) this.now = 0;
+                    this.goSlide();
+                },
+                slideNext: function () {
+                    this.now++;
+                    if (this.now >= this.itemCount) this.now = this.itemCount - 1;
+                    this.goSlide();
+                },
+                goSlide: function () {
+
+                    $(".event-images li").eq(this.now).addClass('active').siblings().removeClass('active');
+                    $(".event-content li").removeClass();
+
+                    $(".event-content li").eq(this.now).addClass('active');
+                    $(".event-content li").eq(this.now-1).addClass('active_prev');
+                    $(".event-content li").eq(this.now+1).addClass('active_next');
+                    $(".btn-arrow").show()
+                    let slideMove = 0 - (this.now * this.slideWidth);
+                    $(".event-content").css("left", slideMove);
+                    if (this.now == 0) {
+                        $(".btn-prev").hide()
+                    }
+                    if (this.now == (this.itemCount - 1)) {
+                        $(".btn-next").hide()
+                    }
+                }
+            },
+            mounted: function () {
+                this.getData();
+
+                // console.log(this.slideWidth)
+            }
+        })
+        var pollNews = new Vue({
+            el:'#pollNews',
+            data(){
+                return {
+                    active_id:null,
+                    now_id:100,
+                    full_list:[],
+                };
+            },
+            computed:{
+                news(){
+                    let data =  this.full_list.filter(d=> {
+                        let check = this.now_id-d.id;
+                        return check <= 5 && check >0;
+                    });
+                    if(data.length>0)
+                        this.active_id = data[0].id;
+                    return data;
+                }
+            },
+            methods:{
+                loadAll(){
+                    $.ajax({
+                        url: "/storage/data/poll_news.json",
+                        dataType: 'json',
+                        cache:true
+                    }).done( (data) => {
+                        this.full_list = data;
+                    });
+                },
+                loadData(id=100){
+                    if(this.now_id == id) return;
+                    this.active_id=null;
+                    this.now_id = id;
+                },
+                setActive(item){
+                    this.active_id=item.id;
+                },
+                activeClass(item){
+                    return {
+                        'active':this.active_id == item.id
+                    }
+                }
+            },
+            mounted(){
+                this.loadAll();
+            }
+        });
+
+        let dateData = [], candidate1 = [], candidate2 = [], candidate3 = [];
+
+        $.ajax({
+            url: "/storage/data/poll.json",
+            dataType: 'json'
+        })
+            .done(function (data) {
+                // console.log(data)
+                //圖表高度 240px
+                let dataCount = data.length;
+                let lastIndex = dataCount - 1;
+
+                data = data.reverse();
+                var svg = d3.select("#pollChart").append("svg")
+                    .attr("width", 20 * dataCount + 54)
+                    .attr("height", 260);
+                pollNews.loadData(lastIndex);
+                data.forEach(function (item, index) {
+
+                    dateData.push(item.data_date)
+                    // candidate1.push(item.popularity_1);
+                    candidate1.push((index * 20 + 24) + ',' + (240 - (Number(item.popularity_1) * 4)));
+                    candidate2.push((index * 20 + 24) + ',' + (240 - (Number(item.popularity_2) * 4)));
+                    candidate3.push((index * 20 + 24) + ',' + (240 - (Number(item.popularity_3) * 4)));
+
+
+                    let line = svg.append("g")
+                        .attr('class', 'poll-time')
+                        .attr('data-date', item.data_date)
+                        .attr('data-id', item.id)
+                        .attr('news-date', item.news_date)
+                        .attr('data-can1', item.popularity_1)
+                        .attr('data-can2', item.popularity_2)
+                        .attr('data-can3', item.popularity_3)
+                        .attr('data-source', item.source)
+                    line.append('line')
+                        .attr('class', 'lineShow')
+                        .attr('x1', index * 20 + 24).attr('y2', 0)
+                        .attr('x1', index * 20 + 24).attr('x2', index * 20 + 24).attr('y2', 240)
+                        .style('stroke', 'transparent').style('stroke-width', 20)
+
+
+                    line.append('line')
+                        .attr('x1', index * 20 + 24).attr('y2', 0)
+                        .attr('x1', index * 20 + 24).attr('x2', index * 20 + 24).attr('y2', 240)
+                        .style('stroke', '#eee').style('stroke-width', 2)
+                        .attr('class', 'poll-line')
+
+                    // console.log(item)
+
+                });
+                // console.log(candidate1.join(' '))
+
+
+                let points1 = candidate1.join(' ');
+                let points2 = candidate2.join(' ');
+                let points3 = candidate3.join(' ');
+                let xEnd = dataCount * 20 + 5;
+
+                svg.append('line').attr('x1', 24).attr('y1', 0).attr('x2', xEnd).attr('y2', 0).style('stroke', '#eee').style('stroke-width', 2);
+                svg.append('line').attr('x1', 24).attr('y1', 40).attr('x2', xEnd).attr('y2', 40).style('stroke', '#eee').style('stroke-width', 2);
+                svg.append('line').attr('x1', 24).attr('y1', 80).attr('x2', xEnd).attr('y2', 80).style('stroke', '#eee').style('stroke-width', 2);
+                svg.append('line').attr('x1', 24).attr('y1', 120).attr('x2', xEnd).attr('y2', 120).style('stroke', '#eee').style('stroke-width', 2);
+                svg.append('line').attr('x1', 24).attr('y1', 160).attr('x2', xEnd).attr('y2', 160).style('stroke', '#eee').style('stroke-width', 2);
+                svg.append('line').attr('x1', 24).attr('y1', 200).attr('x2', xEnd).attr('y2', 200).style('stroke', '#eee').style('stroke-width', 2);
+
+
+                svg.append('polyline').attr('points', points1).style('fill', 'none').style('stroke', kmtColor).style('stroke-width', 2);
+                svg.append('polyline').attr('points', points2).style('fill', 'none').style('stroke', dppColor).style('stroke-width', 2);
+                svg.append('polyline').attr('points', points3).style('fill', 'none').style('stroke', cmtColor).style('stroke-width', 2);
+
+                //頭像
+                let lastPoint1 = candidate1[dataCount - 1].split(',');
+                svg.append('circle').attr('cx', lastPoint1[0]).attr('cy', lastPoint1[1]).attr('r', 18).style('fill', 'url(#can1)').style('stroke', kmtColor).style('stroke-width', 2).attr('class', 'can');
+
+                let lastPoint2 = candidate2[dataCount - 1].split(',');
+                svg.append('circle').attr('cx', lastPoint2[0]).attr('cy', lastPoint2[1]).attr('r', 18).style('fill', 'url(#can2)').style('stroke', dppColor).style('stroke-width', 2).attr('class', 'can');
+
+                let lastPoint3 = candidate3[dataCount - 1].split(',');
+                svg.append('circle').attr('cx', lastPoint3[0]).attr('cy', lastPoint3[1]).attr('r', 18).style('fill', 'url(#can3)').style('stroke', cmtColor).style('stroke-width', 2).attr('class', 'can');
+
+                svg.append('line').attr('x1', 24).attr('y1', 240).attr('x2', dataCount * 24).attr('y2', 240).style('stroke', '#eee').style('stroke-width', 2);
+                svg.append('line').attr('x1', 24).attr('y1', 0).attr('x2', 24).attr('y2', 240).style('stroke', '#eee').style('stroke-width', 2);
+
+
+                // $(".polls_chart").scroll(function(){
+                //     console.log($(this).scrollLeft());
+                // });
+                $('.polls_chart').scrollLeft(lastPoint2[0]);
+                $('#pollChart').dragscroll();
+
+                let lastPoint = $(".polls_chart").width() - 50;
+                let lastPoll = $(".poll-time").last();
+                lastPoll.addClass("active");
+                $("#poll-date").text(lastPoll.data('date'));
+                $("#poll-source").text(lastPoll.data("source"));
+                $("#poll-can1").text(lastPoll.data("can1") + "%")
+                $("#poll-can2").text(lastPoll.data("can2") + "%")
+                $("#poll-can3").text(lastPoll.data("can3") + "%")
+
+                $("#pollUnit, #pollCan").css('left', lastPoint).show();
+
+                $(".poll-time").on("click mouseenter", function () {
+                    let time = $(this).data('date');
+                    let can1 = $(this).data('can1')
+                    let can2 = $(this).data('can2')
+                    let can3 = $(this).data('can3')
+                    let source = $(this).data('source')
+                    let x = $(this).find('.lineShow').attr('x1')
+                    let scrollLeft = $('.polls_chart').scrollLeft();
+                    // console.log(x)
+                    $(this).addClass('active').siblings().removeClass('active')
+                    $("#poll-date").text(time);
+                    $("#poll-source").text(source);
+                    $("#poll-can1").text(can1 + "%")
+                    $("#poll-can2").text(can2 + "%")
+                    $("#poll-can3").text(can3 + "%")
+                    if (can3 == 0) {
+                        $("#poll-can3").parent().addClass('invisible');
+                    } else {
+                        $("#poll-can3").parent().removeClass('invisible');
+
+                    }
+
+                    $("#pollUnit, #pollCan").css('left', x - scrollLeft).show();
+                    let id = $(this).data("id");
+                    pollNews.loadData(id);
+                })
+            });
+
+
+        // $('#pollChart').on("click", ".poll-time", function(){
+        //     let id=$(this).data("id");
+        //     getNews(id);
+        // })
+
+
+        document.body.addEventListener('touchmove', function (event) {
+            event.preventDefault();
+        });
+    </script>
+</body>
+</html>

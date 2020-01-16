@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="right_arrow_dark" transform="translate(216 1321) rotate(180)">
+    <g id="left_arrow" transform="translate(180 1285)">
+      <circle id="Ellipse_401" data-name="Ellipse 401" cx="18" cy="18" r="18" transform="translate(36 36) rotate(180)" fill="#424242"/>
+    </g>
+    <path id="path" d="M8.6,8.579,11.179,6,22.234,17.054,11.179,28.109,8.6,25.529l8.475-8.475Z" transform="translate(213.6 1320) rotate(180)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

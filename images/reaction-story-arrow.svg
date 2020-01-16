@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.427" height="36" viewBox="0 0 36.427 36">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.499" cy="0.499" r="0.485" gradientTransform="translate(0 0)" gradientUnits="objectBoundingBox">
+      <stop offset="0.783" stop-color="#ffd45f"/>
+      <stop offset="1" stop-color="#ffa702"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="0.498" cy="0.498" r="0.808" gradientTransform="translate(0 0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffda6a"/>
+      <stop offset="0.783" stop-color="#ffd45f"/>
+      <stop offset="1" stop-color="#ffa702"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1.006" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff6683"/>
+      <stop offset="0.05" stop-color="#ff6683"/>
+      <stop offset="0.934" stop-color="#ec1733"/>
+      <stop offset="1" stop-color="#ec1733"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.113" y1="0.887" x2="1.072" y2="-0.072" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3b446b"/>
+      <stop offset="0.114" stop-color="#3b446b"/>
+      <stop offset="0.915" stop-color="#202340"/>
+      <stop offset="1" stop-color="#202340"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.375" y1="0.4" x2="0.67" y2="0.636" xlink:href="#linear-gradient-2"/>
+    <linearGradient id="linear-gradient-4" x1="0.382" y1="0.342" x2="0.638" y2="0.684" xlink:href="#linear-gradient-2"/>
+  </defs>
+  <g id="reaction-story-arrow" transform="translate(0.4 -0.409)">
+    <circle id="Ellipse_405" data-name="Ellipse 405" cx="18" cy="18" r="18" transform="translate(-0.4 0.409)" fill="url(#radial-gradient)"/>
+    <circle id="Ellipse_406" data-name="Ellipse 406" cx="14.412" cy="14.412" r="14.412" transform="translate(3.603 3.603)" fill="#fff"/>
+    <circle id="Ellipse_407" data-name="Ellipse 407" cx="10.809" cy="10.809" r="10.809" transform="translate(7.206 7.206)" fill="url(#radial-gradient-2)"/>
+    <circle id="Ellipse_408" data-name="Ellipse 408" cx="7.206" cy="7.206" r="7.206" transform="translate(10.809 10.809)" fill="#fff"/>
+    <circle id="Ellipse_409" data-name="Ellipse 409" cx="3.603" cy="3.603" r="3.603" transform="translate(14.412 14.412)" fill="url(#linear-gradient)"/>
+    <path id="Path_2882" data-name="Path 2882" d="M3486.882-305.466a.772.772,0,0,1-.548-.227.775.775,0,0,1,0-1.1l13.149-13.149a.776.776,0,0,1,1.1,0,.775.775,0,0,1,0,1.1l-13.149,13.149A.772.772,0,0,1,3486.882-305.466Z" transform="translate(-3468.867 325.008)" fill="url(#linear-gradient-2)"/>
+    <path id="Path_2883" data-name="Path 2883" d="M3505.674-320.045l-.757-3.341,5-5,.756,3.341Z" transform="translate(-3477.943 328.972)" fill="url(#linear-gradient-3)"/>
+    <path id="Path_2884" data-name="Path 2884" d="M3506.295-316.836l3.341.757,5-5-3.34-.757Z" transform="translate(-3478.607 325.812)" fill="url(#linear-gradient-4)"/>
+  </g>
+</svg>

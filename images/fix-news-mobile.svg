@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="27" viewBox="0 0 200 27">
+    <defs>
+        <style>
+            .cls-1{fill:#424242;font-size:18px;font-family:NotoSansTC-Medium,Noto Sans TC;font-weight:500}.cls-2{fill:#fff;stroke:#707070;opacity:0}.cls-3,.cls-5{fill:none}.cls-3{stroke:#424242;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25px}.cls-4{stroke:none}
+        </style>
+    </defs>
+    <g id="fix-news-mobile" transform="translate(-81 -631)">
+        <text id="最新選舉消息看這裡" class="cls-1" transform="translate(119 652)">
+            <tspan x="0" y="0">最新選舉消息看這裡</tspan>
+        </text>
+        <g id="fix-news-mobile-2" data-name="fix-news-mobile" transform="translate(62)">
+            <g id="Rectangle_1739" class="cls-2" data-name="Rectangle 1739">
+                <path d="M0 0h28v27H0z" class="cls-4" transform="translate(19 631)"/>
+                <path d="M.5.5h27v26H.5z" class="cls-5" transform="translate(19 631)"/>
+            </g>
+            <g id="Group_9028" data-name="Group 9028" transform="translate(535.141 485.497)">
+                <path id="Path_3593" d="M-510.43 155.034h-2.98a1.688 1.688 0 0 0-1.73 1.641v3.558a1.688 1.688 0 0 0 1.73 1.642h2.98l11.258 4.53V150.5z" class="cls-3" data-name="Path 3593"/>
+                <path id="Path_3594" d="M-506.892 170.465h-1.926a.952.952 0 0 1-.953-.951v-7.278l3.832 1.623v5.655a.951.951 0 0 1-.953.951z" class="cls-3" data-name="Path 3594" transform="translate(.206 .038)"/>
+                <path id="Line_229" d="M0 0h6.223" class="cls-3" data-name="Line 229" transform="translate(-496.364 158.636)"/>
+                <path id="Line_230" d="M0 2l6.223-2" class="cls-3" data-name="Line 230" transform="translate(-496.364 154.122)"/>
+                <path id="Line_231" d="M0 0l6.223 2" class="cls-3" data-name="Line 231" transform="translate(-496.364 161.509)"/>
+            </g>
+        </g>
+    </g>
+</svg>

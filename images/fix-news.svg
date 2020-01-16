@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83.164" height="120.025" viewBox="0 0 83.164 120.025">
+    <defs>
+        <style>
+            .cls-1{fill:#f4f4f4}.cls-2{fill:#717171;font-size:12px;font-family:NotoSansTC-Medium,Noto Sans TC;font-weight:500}.cls-3{fill:#ffda6a}.cls-4{fill:#fff}
+        </style>
+    </defs>
+    <g id="fix-news" transform="translate(-1329.418 -766.323)">
+        <ellipse id="Ellipse_721" cx="41.582" cy="41.265" class="cls-1" data-name="Ellipse 721" rx="41.582" ry="41.265" transform="translate(1329.418 766.323)"/>
+        <text id="最新選舉_消息看這裡" class="cls-2" data-name="最新選舉 消息看這裡" transform="translate(1370 800)">
+            <tspan x="-24" y="0">最新選舉</tspan><tspan x="-30" y="17">消息看這裡</tspan>
+        </text>
+        <g id="Group_9030" data-name="Group 9030" transform="rotate(21 -1530.338 3961.15)">
+            <g id="Group_9055" data-name="Group 9055" transform="translate(30.63)">
+                <g id="Group_9049" data-name="Group 9049" transform="translate(54.844 16.493)">
+                    <path id="Path_3610" d="M190.112 347.484a3 3 0 0 0 2.823 3.144 3 3 0 0 0 2.823-3.144v-4.81a3 3 0 0 0-2.823-3.144 3 3 0 0 0-2.823 3.144z" class="cls-3" data-name="Path 3610" transform="translate(-189.462 -338.88)"/>
+                    <path id="Path_3611" d="M190.585 348.927a3.648 3.648 0 0 0 3.473-3.794v-4.81a3.487 3.487 0 1 0-6.946 0v4.81a3.648 3.648 0 0 0 3.473 3.794zm0-11.1a2.353 2.353 0 0 1 2.174 2.494v4.81a2.194 2.194 0 1 1-4.347 0v-4.81a2.353 2.353 0 0 1 2.173-2.491z" data-name="Path 3611" transform="translate(-187.112 -336.53)"/>
+                </g>
+                <g id="Group_9051" data-name="Group 9051" transform="translate(45.328 27.447)">
+                    <g id="Group_9050" data-name="Group 9050">
+                        <path id="Path_3612" d="M224.866 406.592h-4.341l-6.234-19.487h10.575z" class="cls-3" data-name="Path 3612" transform="translate(-214.291 -387.105)"/>
+                    </g>
+                </g>
+                <g id="Group_9052" data-name="Group 9052" transform="translate(41.506 12.99)">
+                    <path id="Path_3613" d="M205.273 341.607l15.7-1.3v-15.4l-15.7-1.3z" class="cls-4" data-name="Path 3613" transform="translate(-204.623 -322.91)"/>
+                    <path id="Path_3614" d="M202.273 339.76l17-1.405v-16.593l-17-1.405zm15.7-2.6l-14.4 1.191v-16.58l14.4 1.191z" data-name="Path 3614" transform="translate(-202.273 -320.357)"/>
+                </g>
+                <g id="Group_9053" data-name="Group 9053" transform="translate(2.926 2.426)">
+                    <path id="Path_3615" d="M273.8 274.581h.171l39.267 11.106v17.02l-39.267 11.106h-.171z" class="cls-4" data-name="Path 3615" transform="translate(-273.153 -273.931)"/>
+                    <path id="Path_3616" d="M270.8 312.113h.911l39.827-11.264v-18l-39.827-11.264h-.911zm39.438-12.248L272.1 310.652v-37.611l38.139 10.786z" data-name="Path 3616" transform="translate(-270.803 -271.581)"/>
+                </g>
+                <g id="Group_9054" data-name="Group 9054">
+                    <path id="Path_3617" d="M452.108 305.591a1.873 1.873 0 0 0 1.872 1.873 1.873 1.873 0 0 0 1.873-1.873v-40.338a1.873 1.873 0 0 0-1.873-1.873 1.873 1.873 0 0 0-1.872 1.873z" class="cls-3" data-name="Path 3617" transform="translate(-451.458 -262.73)"/>
+                    <path id="Path_3618" d="M451.63 305.763a2.526 2.526 0 0 0 2.523-2.523V262.9a2.522 2.522 0 1 0-5.045 0v40.34a2.525 2.525 0 0 0 2.522 2.523zm0-44.084a1.225 1.225 0 0 1 1.223 1.223v40.338a1.223 1.223 0 1 1-2.446 0V262.9a1.224 1.224 0 0 1 1.223-1.22z" data-name="Path 3618" transform="translate(-449.108 -260.38)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

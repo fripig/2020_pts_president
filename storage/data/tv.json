@@ -1,0 +1,146 @@
+[
+    {
+        "id": 2,
+        "name": "\u83ef\u8996",
+        "url": "https:\/\/www.youtube.com\/watch?v=KiLZ6jplPdA",
+        "latest_vote": [
+            {
+                "id": 330,
+                "television_id": 2,
+                "candNo_1_tks": 608229,
+                "candNo_2_tks": 5518675,
+                "candNo_3_tks": 8166519,
+                "created_at": "2020-01-11 22:03:13",
+                "updated_at": "2020-01-11 22:03:13"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "TVBS",
+        "url": "https:\/\/www.youtube.com\/watch?v=Hu1FkdAOws0",
+        "latest_vote": [
+            {
+                "id": 329,
+                "television_id": 3,
+                "candNo_1_tks": 608124,
+                "candNo_2_tks": 5517537,
+                "candNo_3_tks": 8165390,
+                "created_at": "2020-01-11 22:02:36",
+                "updated_at": "2020-01-11 22:02:36"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "\u516c\u8996",
+        "url": "https:\/\/www.youtube.com\/watch?v=yp21I_XyMvs",
+        "latest_vote": [
+            {
+                "id": 332,
+                "television_id": 4,
+                "candNo_1_tks": 608331,
+                "candNo_2_tks": 5519709,
+                "candNo_3_tks": 8167654,
+                "created_at": "2020-01-11 22:03:47",
+                "updated_at": "2020-01-11 22:03:47"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "\u4e2d\u5929",
+        "url": "https:\/\/www.youtube.com\/watch?v=wUPPkSANpyo",
+        "latest_vote": [
+            {
+                "id": 331,
+                "television_id": 5,
+                "candNo_1_tks": 608229,
+                "candNo_2_tks": 5518675,
+                "candNo_3_tks": 8166519,
+                "created_at": "2020-01-11 22:03:16",
+                "updated_at": "2020-01-11 22:03:16"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "\u6771\u68ee",
+        "url": "https:\/\/www.youtube.com\/watch?v=RaIJ767Bj_M",
+        "latest_vote": [
+            {
+                "id": 326,
+                "television_id": 6,
+                "candNo_1_tks": 608229,
+                "candNo_2_tks": 5518675,
+                "candNo_3_tks": 8166519,
+                "created_at": "2020-01-11 22:02:07",
+                "updated_at": "2020-01-11 22:02:07"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "\u4e09\u7acb",
+        "url": "https:\/\/www.youtube.com\/watch?v=4ZVUmEUFwaY",
+        "latest_vote": [
+            {
+                "id": 327,
+                "television_id": 7,
+                "candNo_1_tks": 608229,
+                "candNo_2_tks": 5518675,
+                "candNo_3_tks": 8166519,
+                "created_at": "2020-01-11 22:02:09",
+                "updated_at": "2020-01-11 22:02:09"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "\u6c11\u8996",
+        "url": "https:\/\/www.youtube.com\/watch?v=oTNQyivF1Bg",
+        "latest_vote": [
+            {
+                "id": 325,
+                "television_id": 8,
+                "candNo_1_tks": 608229,
+                "candNo_2_tks": 5518675,
+                "candNo_3_tks": 8166519,
+                "created_at": "2020-01-11 22:02:00",
+                "updated_at": "2020-01-11 22:02:00"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "\u4e2d\u9078\u6703",
+        "url": "https:\/\/www.youtube.com\/user\/cec288",
+        "latest_vote": [
+            {
+                "id": 328,
+                "television_id": 9,
+                "candNo_1_tks": 608331,
+                "candNo_2_tks": 5519709,
+                "candNo_3_tks": 8167654,
+                "created_at": "2020-01-11 22:02:24",
+                "updated_at": "2020-01-11 22:02:24"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "\u53f0\u8996",
+        "url": "https:\/\/www.youtube.com\/watch?v=NbjI0cARzjQ",
+        "latest_vote": [
+            {
+                "id": 324,
+                "television_id": 10,
+                "candNo_1_tks": 608229,
+                "candNo_2_tks": 5518675,
+                "candNo_3_tks": 8166519,
+                "created_at": "2020-01-11 22:01:44",
+                "updated_at": "2020-01-11 22:01:44"
+            }
+        ]
+    }
+]
