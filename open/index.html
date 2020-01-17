@@ -1883,7 +1883,7 @@
     partyLine() //定時更新
     function partyLine() {
         $.ajax({
-            url: "/storage/data/party.json",
+            url: "/storage/party.json",
             dataType: 'json'
         }).done((data) => {
 
@@ -2186,7 +2186,7 @@
         },
         created: function(){
             $.ajax({
-                url: "/storage/data/legislator.json",
+                url: "/data/legislator.json",
                 dataType: 'json'
             }).done((data) => {
                 regionResult = data;

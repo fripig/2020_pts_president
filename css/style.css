@@ -1288,6 +1288,12 @@ a.btn-more:not([href]):hover, a.btn-more:hover {
     right:0;
     top:120px;
 }
+@media screen and (max-width: 576px){
+    .president-can-card .winner-stamp{
+        top:30px;
+        width: 10vw;
+    }
+}
 .president-can-card img{
     top:-40px;
     margin-bottom:-20px;
@@ -1476,6 +1482,11 @@ a.btn-more:not([href]):hover, a.btn-more:hover {
     padding:5px 0;
     flex: 1;
     text-align: center;
+}
+@media screen and (max-width: 576px){
+    .party-bar-name{
+        font-size: 10px;
+    }
 }
 .party-bar-people>div{
     flex:1;
