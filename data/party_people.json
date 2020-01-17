@@ -3,7 +3,7 @@
     "id": 1,
     "party_id": 1,
     "name": "吳玉琴",
-    "cover": "images/6a053cd09c36793c6bb314119debe0aa.jpg",
+    "cover": "/storage/admin/images/6a053cd09c36793c6bb314119debe0aa.jpg",
     "weight": 1,
     "created_at": "2020-01-11 23:11:18",
     "updated_at": "2020-01-13 13:14:14"
@@ -12,7 +12,7 @@
     "id": 2,
     "party_id": 1,
     "name": "洪申翰",
-    "cover": "images/98772253147b3d8a7a7a5dfd8708b904.jpg",
+    "cover": "/storage/admin/images/98772253147b3d8a7a7a5dfd8708b904.jpg",
     "weight": 2,
     "created_at": "2020-01-11 23:13:36",
     "updated_at": "2020-01-13 13:14:22"
@@ -21,7 +21,7 @@
     "id": 4,
     "party_id": 1,
     "name": "范雲",
-    "cover": "images/a9ec68cf71cf81d3b3ebd233a5cc65f5.jpg",
+    "cover": "/storage/admin/images/a9ec68cf71cf81d3b3ebd233a5cc65f5.jpg",
     "weight": 3,
     "created_at": "2020-01-11 23:14:00",
     "updated_at": "2020-01-13 13:14:28"
@@ -30,7 +30,7 @@
     "id": 6,
     "party_id": 1,
     "name": "羅美玲",
-    "cover": "images/f03bc65de4ad5be3ede2c9bcfeb6205a.jpg",
+    "cover": "/storage/admin/images/f03bc65de4ad5be3ede2c9bcfeb6205a.jpg",
     "weight": 4,
     "created_at": "2020-01-11 23:14:27",
     "updated_at": "2020-01-13 13:15:33"
@@ -39,7 +39,7 @@
     "id": 12,
     "party_id": 1,
     "name": "邱泰源",
-    "cover": "images/f6cf795fa4bdb1456c2e0d1aa82e7858.jpg",
+    "cover": "/storage/admin/images/f6cf795fa4bdb1456c2e0d1aa82e7858.jpg",
     "weight": 5,
     "created_at": "2020-01-11 23:22:08",
     "updated_at": "2020-01-13 13:17:44"
@@ -48,7 +48,7 @@
     "id": 14,
     "party_id": 1,
     "name": "周春米",
-    "cover": "images/17b3b4bac83fa36f06c766340d2b0043.jpg",
+    "cover": "/storage/admin/images/17b3b4bac83fa36f06c766340d2b0043.jpg",
     "weight": 6,
     "created_at": "2020-01-11 23:22:36",
     "updated_at": "2020-01-13 13:18:43"
@@ -57,7 +57,7 @@
     "id": 16,
     "party_id": 1,
     "name": "游錫堃",
-    "cover": "images/74508762fb72ff06e66465cf7284147b.jpg",
+    "cover": "/storage/admin/images/74508762fb72ff06e66465cf7284147b.jpg",
     "weight": 7,
     "created_at": "2020-01-11 23:22:58",
     "updated_at": "2020-01-13 13:19:06"
@@ -66,7 +66,7 @@
     "id": 18,
     "party_id": 1,
     "name": "柯建銘",
-    "cover": "images/c36960dffae836240436161526b57bab.jpg",
+    "cover": "/storage/admin/images/c36960dffae836240436161526b57bab.jpg",
     "weight": 8,
     "created_at": "2020-01-11 23:23:17",
     "updated_at": "2020-01-13 13:20:42"
@@ -75,7 +75,7 @@
     "id": 20,
     "party_id": 1,
     "name": "管碧玲",
-    "cover": "images/ab7cfa56b2b9fe931d420b62e545ec2e.jpg",
+    "cover": "/storage/admin/images/ab7cfa56b2b9fe931d420b62e545ec2e.jpg",
     "weight": 9,
     "created_at": "2020-01-11 23:23:36",
     "updated_at": "2020-01-13 13:21:05"
@@ -84,7 +84,7 @@
     "id": 22,
     "party_id": 1,
     "name": "莊瑞雄",
-    "cover": "images/db6cbaaa197dd8b0a623faeac72d088c.jpg",
+    "cover": "/storage/admin/images/db6cbaaa197dd8b0a623faeac72d088c.jpg",
     "weight": 10,
     "created_at": "2020-01-11 23:23:56",
     "updated_at": "2020-01-13 13:22:04"
@@ -93,7 +93,7 @@
     "id": 24,
     "party_id": 1,
     "name": "沈發惠",
-    "cover": "images/7c2f222c574163fc5e19c3ef2bf44610.jpg",
+    "cover": "/storage/admin/images/7c2f222c574163fc5e19c3ef2bf44610.jpg",
     "weight": 11,
     "created_at": "2020-01-11 23:24:14",
     "updated_at": "2020-01-13 13:21:53"
@@ -102,7 +102,7 @@
     "id": 26,
     "party_id": 1,
     "name": "林楚茵",
-    "cover": "images/bc15ce3cb8fe457988522b17e49cb566.jpg",
+    "cover": "/storage/admin/images/bc15ce3cb8fe457988522b17e49cb566.jpg",
     "weight": 12,
     "created_at": "2020-01-11 23:24:33",
     "updated_at": "2020-01-13 13:22:53"
@@ -111,7 +111,7 @@
     "id": 28,
     "party_id": 1,
     "name": "湯蕙禎",
-    "cover": "images/14798980fd4dbcdfe9f3deca5d9b5359.jpg",
+    "cover": "/storage/admin/images/14798980fd4dbcdfe9f3deca5d9b5359.jpg",
     "weight": 13,
     "created_at": "2020-01-11 23:24:53",
     "updated_at": "2020-01-13 17:22:40"
@@ -120,7 +120,7 @@
     "id": 8,
     "party_id": 2,
     "name": "曾銘宗",
-    "cover": "images/212017b9fed1350579ad3aaf1c84f564.jpg",
+    "cover": "/storage/admin/images/212017b9fed1350579ad3aaf1c84f564.jpg",
     "weight": 1,
     "created_at": "2020-01-11 23:20:00",
     "updated_at": "2020-01-13 13:17:00"
@@ -129,7 +129,7 @@
     "id": 9,
     "party_id": 2,
     "name": "葉毓蘭",
-    "cover": "images/ecef9a985e19fdd4a53f42223a3871a5.jpg",
+    "cover": "/storage/admin/images/ecef9a985e19fdd4a53f42223a3871a5.jpg",
     "weight": 2,
     "created_at": "2020-01-11 23:21:22",
     "updated_at": "2020-01-13 13:17:09"
@@ -138,7 +138,7 @@
     "id": 10,
     "party_id": 2,
     "name": "李貴敏",
-    "cover": "images/d16c9f0377e0b324293294cda46353fe.jpg",
+    "cover": "/storage/admin/images/d16c9f0377e0b324293294cda46353fe.jpg",
     "weight": 3,
     "created_at": "2020-01-11 23:21:41",
     "updated_at": "2020-01-13 13:17:20"
@@ -147,7 +147,7 @@
     "id": 11,
     "party_id": 2,
     "name": "吳斯懷",
-    "cover": "images/4fa4ec66a5547afcef90828a6418a4b6.jpg",
+    "cover": "/storage/admin/images/4fa4ec66a5547afcef90828a6418a4b6.jpg",
     "weight": 4,
     "created_at": "2020-01-11 23:22:00",
     "updated_at": "2020-01-13 13:17:28"
@@ -156,7 +156,7 @@
     "id": 13,
     "party_id": 2,
     "name": "鄭麗文",
-    "cover": "images/aed313ee0d7406ac99f798a1ae47a964.jpg",
+    "cover": "/storage/admin/images/aed313ee0d7406ac99f798a1ae47a964.jpg",
     "weight": 5,
     "created_at": "2020-01-11 23:22:22",
     "updated_at": "2020-01-13 13:18:29"
@@ -165,7 +165,7 @@
     "id": 15,
     "party_id": 2,
     "name": "林文瑞",
-    "cover": "images/1cb5d12492052902b4782cbb1919a2d6.jpg",
+    "cover": "/storage/admin/images/1cb5d12492052902b4782cbb1919a2d6.jpg",
     "weight": 6,
     "created_at": "2020-01-11 23:22:40",
     "updated_at": "2020-01-13 13:18:56"
@@ -174,7 +174,7 @@
     "id": 17,
     "party_id": 2,
     "name": "廖婉汝",
-    "cover": "images/5f6a3c6f7d8c75225a2837a31a526215.jpg",
+    "cover": "/storage/admin/images/5f6a3c6f7d8c75225a2837a31a526215.jpg",
     "weight": 7,
     "created_at": "2020-01-11 23:23:04",
     "updated_at": "2020-01-13 13:20:31"
@@ -183,7 +183,7 @@
     "id": 19,
     "party_id": 2,
     "name": "翁重鈞",
-    "cover": "images/6a23763307ac6927c10a6d2b7daf25f7.jpg",
+    "cover": "/storage/admin/images/6a23763307ac6927c10a6d2b7daf25f7.jpg",
     "weight": 8,
     "created_at": "2020-01-11 23:23:23",
     "updated_at": "2020-01-13 13:20:55"
@@ -192,7 +192,7 @@
     "id": 21,
     "party_id": 2,
     "name": "吳怡玎",
-    "cover": "images/4a21977d2048b6311966ce0014dfeb0a.jpg",
+    "cover": "/storage/admin/images/4a21977d2048b6311966ce0014dfeb0a.jpg",
     "weight": 9,
     "created_at": "2020-01-11 23:23:53",
     "updated_at": "2020-01-13 13:21:17"
@@ -201,7 +201,7 @@
     "id": 23,
     "party_id": 2,
     "name": "陳以信",
-    "cover": "images/d25df6f4235bb545a152dc85f3d64ab8.jpg",
+    "cover": "/storage/admin/images/d25df6f4235bb545a152dc85f3d64ab8.jpg",
     "weight": 10,
     "created_at": "2020-01-11 23:24:10",
     "updated_at": "2020-01-13 13:21:43"
@@ -210,7 +210,7 @@
     "id": 25,
     "party_id": 2,
     "name": "張育美",
-    "cover": "images/ddf47eb9e13f6317f5a2a5852a3dcc4e.jpg",
+    "cover": "/storage/admin/images/ddf47eb9e13f6317f5a2a5852a3dcc4e.jpg",
     "weight": 11,
     "created_at": "2020-01-11 23:24:28",
     "updated_at": "2020-01-13 13:22:41"
@@ -219,7 +219,7 @@
     "id": 27,
     "party_id": 2,
     "name": "李德維",
-    "cover": "images/7816f97f62a94af39730549ed98b5614.jpg",
+    "cover": "/storage/admin/images/7816f97f62a94af39730549ed98b5614.jpg",
     "weight": 12,
     "created_at": "2020-01-11 23:24:48",
     "updated_at": "2020-01-13 13:23:05"
@@ -228,7 +228,7 @@
     "id": 29,
     "party_id": 2,
     "name": "溫玉霞",
-    "cover": "images/7e155d96f337baafafedad008c27903d.jpg",
+    "cover": "/storage/admin/images/7e155d96f337baafafedad008c27903d.jpg",
     "weight": 13,
     "created_at": "2020-01-11 23:25:11",
     "updated_at": "2020-01-13 13:23:13"
@@ -237,7 +237,7 @@
     "id": 35,
     "party_id": 3,
     "name": "賴香伶",
-    "cover": "images/7e7ab66c6a6759c44a803b140a758d4e.jpg",
+    "cover": "/storage/admin/images/7e7ab66c6a6759c44a803b140a758d4e.jpg",
     "weight": 1,
     "created_at": "2020-01-11 23:56:37",
     "updated_at": "2020-01-13 13:23:25"
@@ -246,7 +246,7 @@
     "id": 36,
     "party_id": 3,
     "name": "張其祿",
-    "cover": "images/c97c301169ba352dca38c8615a46393b.jpg",
+    "cover": "/storage/admin/images/c97c301169ba352dca38c8615a46393b.jpg",
     "weight": 2,
     "created_at": "2020-01-11 23:57:01",
     "updated_at": "2020-01-13 13:23:41"
@@ -255,7 +255,7 @@
     "id": 37,
     "party_id": 3,
     "name": "高虹安",
-    "cover": "images/36bc68da43062989cd2e91a6f62ca30c.jpg",
+    "cover": "/storage/admin/images/36bc68da43062989cd2e91a6f62ca30c.jpg",
     "weight": 3,
     "created_at": "2020-01-11 23:57:41",
     "updated_at": "2020-01-13 13:23:49"
@@ -264,7 +264,7 @@
     "id": 38,
     "party_id": 3,
     "name": "邱臣遠",
-    "cover": "images/6e9c94abb6bec928c1c7d20432f83b53.jpg",
+    "cover": "/storage/admin/images/6e9c94abb6bec928c1c7d20432f83b53.jpg",
     "weight": 4,
     "created_at": "2020-01-11 23:58:07",
     "updated_at": "2020-01-13 13:23:56"
@@ -273,7 +273,7 @@
     "id": 39,
     "party_id": 3,
     "name": "蔡壁如",
-    "cover": "images/5af74b87a6a23a704a54c84abbba87a4.jpg",
+    "cover": "/storage/admin/images/5af74b87a6a23a704a54c84abbba87a4.jpg",
     "weight": 5,
     "created_at": "2020-01-11 23:58:32",
     "updated_at": "2020-01-13 13:24:05"
@@ -282,7 +282,7 @@
     "id": 5,
     "party_id": 4,
     "name": "邱顯智",
-    "cover": "images/1ba0cbc6d68e8a70aea4d3481401449b.jpg",
+    "cover": "/storage/admin/images/1ba0cbc6d68e8a70aea4d3481401449b.jpg",
     "weight": 2,
     "created_at": "2020-01-11 23:14:11",
     "updated_at": "2020-01-13 13:24:59"
@@ -291,7 +291,7 @@
     "id": 7,
     "party_id": 4,
     "name": "王婉諭",
-    "cover": "images/f634c9bf1738b7b16fa0afe021e60241.jpg",
+    "cover": "/storage/admin/images/f634c9bf1738b7b16fa0afe021e60241.jpg",
     "weight": 3,
     "created_at": "2020-01-11 23:14:29",
     "updated_at": "2020-01-13 13:15:54"
@@ -300,7 +300,7 @@
     "id": 30,
     "party_id": 4,
     "name": "陳椒華",
-    "cover": "images/87de541009f06eca560d58d9dc3ef156.jpg",
+    "cover": "/storage/admin/images/87de541009f06eca560d58d9dc3ef156.jpg",
     "weight": 1,
     "created_at": "2020-01-11 23:28:54",
     "updated_at": "2020-01-13 13:22:26"
