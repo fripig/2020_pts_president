@@ -1275,8 +1275,8 @@ a.btn-more:not([href]):hover, a.btn-more:hover {
 }
 @media screen and (max-width: 576px){
     .can2-count{
-        position: relative;
-        top:26px;
+        /*position: relative;*/
+        /*top:26px;*/
     }
 }
 .president-can-card{
@@ -1328,6 +1328,9 @@ a.btn-more:not([href]):hover, a.btn-more:hover {
         font-size: 15px;
     }
 }
+.result-bar-con{
+
+}
 .result-bar{
     height: 35px;
 }
@@ -1339,6 +1342,18 @@ a.btn-more:not([href]):hover, a.btn-more:hover {
 }
 .result-bar-3{
     background: #00d68c;
+}
+@media screen and (max-width: 576px){
+    .result-bar-con .h4{
+        font-size: 12px;
+    }
+    .result-bar{
+        font-size: 12px;
+    }
+    .result-bar:first-child span{
+        position: relative;
+        left:10px;
+    }
 }
 .vote-map{
     background: #f4f4f4;
@@ -1483,11 +1498,6 @@ a.btn-more:not([href]):hover, a.btn-more:hover {
     flex: 1;
     text-align: center;
 }
-@media screen and (max-width: 576px){
-    .party-bar-name{
-        font-size: 10px;
-    }
-}
 .party-bar-people>div{
     flex:1;
     margin: 0 20px;
@@ -1509,6 +1519,18 @@ a.btn-more:not([href]):hover, a.btn-more:hover {
 }
 .tmd-people{
     border:4px solid #28c7b5;
+}
+@media screen and (max-width: 576px){
+    .party-bar>div{
+        font-size: 13px;
+    }
+    .party-bar-name{
+        font-size: 10px;
+    }
+    .party-bar-people > div{
+        margin:0 5px;
+        font-size: 12px;
+    }
 }
 .map_img{
     height: 70vh;
